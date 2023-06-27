@@ -7,7 +7,7 @@ title: "About"
 
 Hi, I'm pipinstallyp! With a coding journey that began in 2012, I started my adventures in tech by creating websites on forumotion. From India, my curiosity has led me on an exploration of the intricate workings of both biological and artificial brains. 
 
-Over the years my portfolio has evolved; I served as an active IEEE member from 2018 to 2021 and currently run a community known as finetuner AI labs. I spend my days as a software engineer, with this profile dedicated to all things AI. Currently, I am cooperating with Stable Diffusion, having been a part of the team since August 22nd, 2023.
+Over the years my portfolio has evolved; I served as an active IEEE member from 2018 to 2021 and currently run a community known as finetuner AI labs. I spend my days as a software engineer, with this profile dedicated to all things AI. Currently, I am cooperating with Stable Diffusion, having been playing around it since August 22nd, 2022.
 
 ## Current Projects
 
@@ -15,7 +15,7 @@ My current universe of work includes:
 
 - Stable Diffusion: Enhancing the entire experience of finetuning models.
 - Pytorch: Learning it's core basics, and learning to optimse from the best [kohya](https://github.com/bmaltais/kohya_ss)
-- Terraform: That's what I do as my day job. Writing Terraform Scripts.
+- Terraform: That's what I do as my day job. I write terraform scripts to create Azure infra, I've created subnets. Worked to deliver infra within 2 days instead of two weeks. 
 
 ## Constant Learning
 
