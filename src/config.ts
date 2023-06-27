@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://astro-paper.pages.dev/",
   author: "pipinstallyp",
   desc: "AGI dump by pipinstallyp and insights on AI, BCI and insights after coding for 10",
-  title: "AstroPaper",
+  title: "pip's blog",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
